@@ -1,0 +1,5 @@
+# Progress Log
+# Append-only. Each session adds a brief entry.
+# Format: [YYYY-MM-DD HH:MM] Action taken | Outcome | Notes
+# ---
+
