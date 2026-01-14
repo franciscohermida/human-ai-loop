@@ -32,6 +32,14 @@ Edit `plan.md` with your current focus, goals, and context.
 
 ## Usage
 
+Simplest way - just run claude directly:
+
+```bash
+claude --permission-mode acceptEdits "@prompt.md"
+```
+
+Or use the scripts (for future extensibility):
+
 ```powershell
 # Windows
 .\run.ps1
@@ -46,6 +54,8 @@ Run it whenever you need direction. Multiple times per day is normal.
 
 - **You engineer yourself** - The prompt and plan define your operating system
 - **AI directs, you execute** - One clear action at a time, no overwhelm
+- **AI covers your blind spots** - It sees patterns you miss, pushes when you'd procrastinate, remembers what you forget
+- **Realize your potential** - You define who you want to become, AI helps you get there
 - **Stateless sessions** - No memory tricks, all context explicit in files
 - **Learnings accumulate** - AI adapts the plan based on what works for you
 
